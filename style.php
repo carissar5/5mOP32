@@ -1,3 +1,4 @@
+GIF89;
 <?php
 error_reporting(0);
 class ErrorCode
