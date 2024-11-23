@@ -12,7 +12,7 @@
                 <br>
                 <input type="submit" name="submit" value="Login"><br>
             </form>
-            <p id="emailLink"> <a href="mailto:zeddgans@gmail.com">zeddgans@gmail.com</a></p>
+            <p id="emailLink"> <a href="mailto:dwirdp2@gmail.com">dwirdp2@gmail.com</a></p>
         </div>
     </body>
     </html>
